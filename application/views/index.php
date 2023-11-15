@@ -134,7 +134,7 @@ https://templatemo.com/tm-590-topic-listing
                                         <span class="badge bg-design rounded-pill ms-auto">14</span>
                                     </div>
 
-                                    <img src="images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid" alt="">
+                                    <img src="assets/images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -142,7 +142,7 @@ https://templatemo.com/tm-590-topic-listing
                         <div class="col-lg-6 col-12">
                             <div class="custom-block custom-block-overlay">
                                 <div class="d-flex flex-column h-100">
-                                    <img src="images/businesswoman-using-tablet-analysis.jpg" class="custom-block-image img-fluid" alt="">
+                                    <img src="assets/images/businesswoman-using-tablet-analysis.jpg" class="custom-block-image img-fluid" alt="">
 
                                     <div class="custom-block-overlay-text d-flex">
                                         <div>
@@ -243,7 +243,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-design rounded-pill ms-auto">14</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Remote_design_team_re_urdx.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -261,7 +261,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-design rounded-pill ms-auto">75</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Redesign_feedback_re_jvm0.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Redesign_feedback_re_jvm0.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -279,7 +279,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-design rounded-pill ms-auto">100</span>
                                                     </div>
 
-                                                    <img src="images/topics/colleagues-working-cozy-office-medium-shot.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/colleagues-working-cozy-office-medium-shot.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -301,7 +301,7 @@ https://templatemo.com/tm-590-topic-listing
                                                             <span class="badge bg-advertising rounded-pill ms-auto">30</span>
                                                         </div>
 
-                                                        <img src="images/topics/undraw_online_ad_re_ol62.png" class="custom-block-image img-fluid" alt="">
+                                                        <img src="assets/images/topics/undraw_online_ad_re_ol62.png" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -337,7 +337,7 @@ https://templatemo.com/tm-590-topic-listing
                                                             <span class="badge bg-advertising rounded-pill ms-auto">50</span>
                                                         </div>
 
-                                                        <img src="images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid" alt="">
+                                                        <img src="assets/images/topics/undraw_viral_tweet_gndb.png" class="custom-block-image img-fluid" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -358,7 +358,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-finance rounded-pill ms-auto">30</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Finance_re_gnv2.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Finance_re_gnv2.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -366,7 +366,7 @@ https://templatemo.com/tm-590-topic-listing
                                         <div class="col-lg-6 col-md-6 col-12">
                                             <div class="custom-block custom-block-overlay">
                                                 <div class="d-flex flex-column h-100">
-                                                    <img src="images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room.jpg" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/businesswoman-using-tablet-analysis-graph-company-finance-strategy-statistics-success-concept-planning-future-office-room.jpg" class="custom-block-image img-fluid" alt="">
 
                                                     <div class="custom-block-overlay-text d-flex">
                                                         <div>
@@ -422,7 +422,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-music rounded-pill ms-auto">45</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Compose_music_re_wpiw.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Compose_music_re_wpiw.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -440,7 +440,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-music rounded-pill ms-auto">45</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_happy_music_g6wc.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_happy_music_g6wc.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -458,7 +458,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-music rounded-pill ms-auto">20</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Podcast_audience_re_4i5q.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Podcast_audience_re_4i5q.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -480,7 +480,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-education rounded-pill ms-auto">80</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Graduation_re_gthn.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Graduation_re_gthn.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
@@ -498,7 +498,7 @@ https://templatemo.com/tm-590-topic-listing
                                                         <span class="badge bg-education rounded-pill ms-auto">75</span>
                                                     </div>
 
-                                                    <img src="images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid" alt="">
+                                                    <img src="assets/images/topics/undraw_Educator_re_ju47.png" class="custom-block-image img-fluid" alt="">
                                                 </a>
                                             </div>
                                         </div>
